@@ -163,9 +163,9 @@ const contactConfig = {
     YOUR_EMAIL: "Mayank07feb@gmail.com",
     YOUR_FONE: "+91-7905111789",
     description: "Feel free to reach out to me for any collaboration or freelance work. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.",
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_b5i28jx",
+    YOUR_TEMPLATE_ID: "template_thmiklc",
+    YOUR_USER_ID: "CDMVouRULxTZmLnUF",
 };
 
 const socialprofils = {
