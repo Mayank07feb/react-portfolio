@@ -161,7 +161,7 @@ const testimonials = [
 
 const contactConfig = {
     YOUR_EMAIL: "Mayank07feb@gmail.com",
-    YOUR_PHONE: "+91-7905111789",
+    YOUR_FONE: "+91-7905111789",
     description: "Feel free to reach out to me for any collaboration or freelance work. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
