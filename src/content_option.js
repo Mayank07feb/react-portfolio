@@ -1,3 +1,16 @@
+import autoSpellingImg from './assets/images/Spelling-Correction.jpg';
+import bookInventoryImg from './assets/images/Book-Inventory.jpg';
+import attendanceImg from './assets/images/Attendance.jpg';
+import blogImg from './assets/images/Blog.jpg';
+import calculatorImg from './assets/images/Calculator.jpg';
+import sparePartsImg from './assets/images/Spare-web.jpg';
+import carRepairImg from './assets/images/Car-Repair.jpg';
+import weatherForecastImg from './assets/images/Weather-Forecast.jpg';
+import travelWebImg from './assets/images/TravelWeb.jpg';
+import callingManagementImg from './assets/images/Calling-Management.jpg';
+import reactPortfolioImg from './assets/images/react portfolio gif.gif';
+
+
 const logotext = "MAYANK SHARMA";
 
 const meta = {
@@ -90,57 +103,57 @@ const services = [
 
 const dataportfolio = [
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: autoSpellingImg,
         description: "Auto Spelling Correction App",
-        link: "#",
+        link: "https://automaticspelling-corrector.netlify.app/",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: weatherForecastImg,
         description: "Weather Forecast App",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: calculatorImg,
         description: "Calculator (Mini Project)",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: bookInventoryImg,
         description: "Book Inventory App",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: reactPortfolioImg,
         description: "Portfolio Website",
-        link: "#",
+        link: "https://portfolio-web-07.netlify.app/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: callingManagementImg,
         description: "Calling Management App",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: attendanceImg,
         description: "Attendance Management App",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: travelWebImg,
         description: "Travel Website",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: carRepairImg,
         description: "Car Repair Website",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: sparePartsImg,
         description: "Spare Parts Website",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: blogImg,
         description: "Blog Website",
         link: "#",
     },
